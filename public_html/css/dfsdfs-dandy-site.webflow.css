@@ -860,7 +860,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 120px 30px 150px;
+  padding: 120px 30px 80px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -1052,7 +1052,7 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   margin-top: -90px;
-  padding: 180px 30px 90px;
+  padding: 80px 30px 90px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -2056,7 +2056,7 @@ figcaption {
   margin-top: 20px;
   margin-right: 40px;
   border-radius: 6px;
-  background-color: #9accd3;
+  background-color: #203f71;
   text-align: center;
 }
 
@@ -2310,6 +2310,10 @@ figcaption {
   opacity: 1;
 }
 
+.tab-link-tab-5 {
+  opacity: 1;
+}
+
 .tab-link-tab-4 {
   opacity: 1;
 }
@@ -2446,7 +2450,7 @@ figcaption {
 .button-3-copy {
   display: inline-block;
   border-radius: 6px;
-  background-color: #9accd3;
+  background-color: #203f71;
   text-align: center;
 }
 
